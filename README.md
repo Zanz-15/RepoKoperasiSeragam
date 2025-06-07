@@ -82,28 +82,11 @@ Pilih menu:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📁 Struktur Folder
-bash
-Copy
-Edit
-.
 ├── main.py              # File utama aplikasi Python
 ├── koperasi_data.json   # File penyimpanan data (dibuat otomatis)
 ├── main.exe             # File executable (jika dikompilasi)
 ├── README.md            # Dokumentasi aplikasi
-📄 Contoh Data (koperasi_data.json)
-json
-Copy
-Edit
-{
-    "nomor_antrian_berikutnya": 3,
-    "antrian": [
-        { "nama": "Ani", "nomor_antrian": 1 },
-        { "nama": "Budi", "nomor_antrian": 2 }
-    ],
-    "seragam_terambil": [
-        { "nama": "Cici", "nomor_antrian": 0, "waktu_pengambilan": "2025-06-07 08:23:10" }
-    ]
-}
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -113,7 +96,7 @@ Aplikasi ini dibuat untuk keperluan edukasi dan dapat digunakan bebas untuk peng
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🙌 Kontributor
-Nama: [Masukkan Nama Anda]
+Nama: [muhammad zakiy alfawaz]
 
 Sekolah: SMK / Sekolah Anda
 

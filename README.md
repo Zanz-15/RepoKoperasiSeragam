@@ -48,7 +48,7 @@ Clone repositori:
 bash
 Copy
 Edit
-git clone https://github.com/NamaAnda/RepoKoperasiSeragam
+git clone https://github.com/Zanz-15/RepoKoperasiSeragam
 Masuk ke folder proyek:
 
 bash

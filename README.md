@@ -103,3 +103,5 @@ Mata Pelajaran: Dasar Pemrograman Komputer (DPK)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+NOTE : jika ingin melihat fitur nya sudah ada di bagian folder gambar dan sudah lengkap dengan flowchart nya 
+

@@ -5,12 +5,19 @@ Aplikasi berbasis Python untuk membantu pengelolaan antrian dan pencatatan penga
 
 📌 Fitur Utama
 ✅ Sistem login admin sederhana
+
 ✅ Pendaftaran siswa untuk pengambilan seragam dengan nomor antrian otomatis
+
 ✅ Pelayanan siswa berdasarkan urutan antrian
+
 ✅ Pencatatan waktu pengambilan seragam
+
 ✅ Menyimpan dan memuat data dalam file koperasi_data.json
+
 ✅ Fitur reset seluruh data antrian dan pengambilan
+
 ✅ Validasi input nama dan nomor antrian
+
 ✅ Tampilan status antrian dan siswa yang sudah dilayani
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

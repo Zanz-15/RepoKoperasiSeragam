@@ -30,9 +30,6 @@ Bisa dikompilasi menjadi .exe menggunakan PyInstaller
 📦 Menggunakan File .exe
 Kompilasi file main.py menjadi .exe menggunakan perintah:
 
-bash
-Copy
-Edit
 pyinstaller --onefile main.py
 Simpan main.exe dan koperasi_data.json dalam folder yang sama
 
@@ -45,21 +42,12 @@ Tambahkan pengecualian jika dicegat Windows Defender
 🧑‍💻 Menjalankan Dari Kode Sumber
 Clone repositori:
 
-bash
-Copy
-Edit
 git clone https://github.com/Zanz-15/RepoKoperasiSeragam
 Masuk ke folder proyek:
 
-bash
-Copy
-Edit
 cd RepoKoperasiSeragam
 Jalankan program:
 
-bash
-Copy
-Edit
 python main.py
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

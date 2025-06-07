@@ -82,9 +82,13 @@ Pilih menu:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📁 Struktur Folder
+
 ├── main.py              # File utama aplikasi Python
+
 ├── koperasi_data.json   # File penyimpanan data (dibuat otomatis)
+
 ├── main.exe             # File executable (jika dikompilasi)
+
 ├── README.md            # Dokumentasi aplikasi
 
 

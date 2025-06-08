@@ -38,6 +38,15 @@ Bisa dikompilasi menjadi .exe menggunakan PyInstaller
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+cara download file .exe 
+
+1. klik pada bagian dist
+2. klik pada file uas .exe
+3. klik raw dipojok kanan atas
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 🛠️ Cara Instalasi
 📦 Menggunakan File .exe
 Kompilasi file main.py menjadi .exe menggunakan perintah:

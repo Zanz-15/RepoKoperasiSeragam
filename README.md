@@ -100,8 +100,10 @@ Aplikasi ini dibuat untuk keperluan edukasi dan dapat digunakan bebas untuk peng
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🙌 Kontributor
-Nama: [Muhammad Zakiy Alfawaz]
+Nama: [Muhammad Zakiy Alfawaz/23]
+      
       [Muhammad Diego Gustav Al-Ghazali/21]
+      
       [Muhammad Dhanil Dwi Cahyono/20]
 Sekolah: SMK / Sekolah Anda
 

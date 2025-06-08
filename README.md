@@ -95,13 +95,15 @@ Aplikasi ini dibuat untuk keperluan edukasi dan dapat digunakan bebas untuk peng
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🙌 Kontributor
-Nama: [muhammad zakiy alfawaz]
-
+Nama: [Muhammad Zakiy Alfawaz]
+      [Muhammad Diego Gustav Al-Ghazali/21]
+      [Muhammad Dhanil Dwi Cahyono/20]
 Sekolah: SMK / Sekolah Anda
 
 Mata Pelajaran: Dasar Pemrograman Komputer (DPK)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-NOTE : jika ingin melihat fitur nya sudah ada di bagian folder gambar dan sudah lengkap dengan flowchart nya 
+NOTE : jika ingin melihat fitur nya sudah ada di bagian folder gambar dan sudah lengkap dengan flowchart nya dan data untuk .exe ada di dalam folder dist
+
 

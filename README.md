@@ -4,7 +4,12 @@ Aplikasi berbasis Python untuk membantu pengelolaan antrian dan pencatatan penga
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📌 Fitur Utama
+
 ✅ Sistem login admin sederhana
+
+  Username = admin
+
+  password = 1234
 
 ✅ Pendaftaran siswa untuk pengambilan seragam dengan nomor antrian otomatis
 

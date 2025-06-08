@@ -107,7 +107,8 @@ Nama:
       [Muhammad Diego Gustav Al-Ghazali/21]
       
       [Muhammad Dhanil Dwi Cahyono/20]
-Sekolah: SMK / Sekolah Anda
+      
+Sekolah: SMK Negeri 1 Probolinggo
 
 Mata Pelajaran: Dasar Pemrograman Komputer (DPK)
 
